@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Consultorio",
+    "\\Consultorio\\Controllers",
+    "\\Consultorio\\Helpers",
+    "\\Consultorio\\Models\\Dtos",
+    "\\Consultorio\\Models\\Entities",
+    "\\Consultorio\\Repository\\Interfaces"
+  ],
+  "SelectedNode": "\\Consultorio\\Controllers\\EspecialidadeController.cs",
+  "PreviewInSolutionExplorer": false
+}
